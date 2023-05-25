@@ -42,7 +42,5 @@ body{
 @media (min-width:550px) {
     .stopwatch{
         flex-wrap: wrap;
-        position: relative;
-        left: 80vw;
     }
 }
